@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "library",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NWYxMDNmYTBmN2I4NDQ1NGNhNTU2MTIzYThiM2Q2ZmU3MWFmYjk3YmZkYzYyOTAxNDMyNDkwNjIwZjcwODE0ZGJjMmJkZTc5NDhkMDZjYjdiNmRlMzU1ZDg1NmQwN2I4OGVhMTQyNzM3ZWQ5NzUzMGI1NWYwYjQ4NGI2OTlmMzM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "yrapa12",
+  "repository-name": "library-yoav-rapaport"
+}
